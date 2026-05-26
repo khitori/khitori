@@ -13,4 +13,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,arch,c,cs,dotnet,electron,figma,github,haskell,linux,nix,nodejs,npm,react,rider,rust,svelte,tauri,ts,vscode,tailwind,vite,webstorm)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=webstorm,rider,figma,github,vscode)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=linux,arch,nix)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,ts,js,haskell,dotnet,cs,c,rust)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=svelte,tailwind,vite,nodejs,npm,react,electron,tauri)](https://skillicons.dev)
