@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![My Skills](https://skillicons.dev/icons?i=webstorm,rider,figma,github,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=webstorm,rider,figma,gitlab,github,vscode)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=linux,arch,nix)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,ts,js,haskell,dotnet,cs,c,rust)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=svelte,tailwind,vite,nodejs,npm,react,electron,tauri)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=svelte,tailwind,vite,nodejs,npm,angular,electron,tauri)](https://skillicons.dev)
