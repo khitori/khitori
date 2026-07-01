@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,ts,js,haskell,dotnet,cs,c,rust)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=svelte,tailwind,vite,nodejs,npm,angular,electron,tauri)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=svelte,angular,tailwind,vite,nodejs,npm,electron,tauri)](https://skillicons.dev)
