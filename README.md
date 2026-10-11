@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![My Skills](https://skillicons.dev/icons?i=webstorm,rider,figma,gitlab,github,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=webstorm,rider,figma,gitlab,github,vscode,docker)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=linux,arch,nix)](https://skillicons.dev)
 
