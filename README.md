@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 
 [![My Skills](https://skillicons.dev/icons?i=linux,arch,nix)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,ts,js,haskell,dotnet,cs,c,rust,dart)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=tailwind,html,css,ts,js,haskell,dotnet,cs,c,rust,dart)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=svelte,angular,tailwind,vite,nodejs,npm,electron,tauri)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=svelte,angular,vite,nodejs,npm,electron,tauri)](https://skillicons.dev)
